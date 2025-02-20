@@ -19,6 +19,8 @@ span {
 h1 {
     text-decoration: underline double;
     text-decoration-color: blue;
+   
+   
     
 }
 
@@ -48,7 +50,7 @@ h2{
 footer {
     background-color: black;
     position: relative;
-    margin-top: 150px;
+    margin-top: 90px;
 
 }
 
@@ -57,6 +59,11 @@ footer {
 }
 
 .svg {
-    height: 10px;
-    width: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.svg:hover {
+    height: 30px;
+    width: 30px;
 }
