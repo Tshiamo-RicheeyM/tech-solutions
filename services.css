@@ -4,8 +4,7 @@
 
 .services {
   
-    text-decoration: underline;
-    text-decoration-color: blue;
+   
     
 }
 
@@ -23,6 +22,7 @@ nav {
     border: solid;
     border-color: antiquewhite;
     border-radius: 10px;
+    position: fixed;
 
 }
 
