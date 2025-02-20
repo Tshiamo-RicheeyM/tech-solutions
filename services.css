@@ -45,3 +45,13 @@ h2{
     animation-iteration-count: infinite;
 }
 
+footer {
+    background-color: black;
+    position: relative;
+    margin-top: 150px;
+
+}
+
+.ftext {
+    color: white;
+}
