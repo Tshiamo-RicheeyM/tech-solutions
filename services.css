@@ -20,9 +20,9 @@ h1 {
 
 nav {
     border: solid;
-    border-color: antiquewhite;
+    border-color: grey;
     border-radius: 10px;
-    position: fixed;
+    margin-right: 80%;
 
 }
 
