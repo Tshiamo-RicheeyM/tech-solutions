@@ -19,6 +19,8 @@ span {
 h1 {
     text-decoration: underline double;
     text-decoration-color: blue;
+   
+   
     
 }
 
@@ -45,3 +47,23 @@ h2{
     animation-iteration-count: infinite;
 }
 
+footer {
+    background-color: black;
+    position: relative;
+    margin-top: 90px;
+
+}
+
+.ftext {
+    color: white;
+}
+
+.svg {
+    height: 20px;
+    width: 20px;
+}
+
+.svg:hover {
+    height: 30px;
+    width: 30px;
+}
