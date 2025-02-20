@@ -13,19 +13,27 @@
 
 }
 
+@keyframes myanimation {
+    start{margin-right:0px}
+    end{margin-left: 0px}
+}
+
 h1 {
     text-decoration: underline double;
     text-decoration-color: blue;
+    animation-name: myanimation;
+    animation-duration: 5s;
 }
 
 nav {
     border: solid;
     border-color: grey;
     border-radius: 10px;
-    margin-right: 80%;
+    margin-right: 85%;
 
 }
 
 h2{
-    text-decoration: underline;
+    text-decoration: underline darkblue;
 }
+
