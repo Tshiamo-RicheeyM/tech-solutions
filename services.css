@@ -47,3 +47,17 @@ h2{
     animation-iteration-count: infinite;
 }
 
+footer {
+    background-color: black;
+    position: relative;
+    margin-top: 150px;
+    height: 20px;
+}
+
+.ftext {
+    color: white;
+}
+
+span {
+    color:darkblue;
+}
